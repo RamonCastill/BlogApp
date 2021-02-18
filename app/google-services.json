@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665824966434",
+    "project_id": "blogapp-b2960",
+    "storage_bucket": "blogapp-b2960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665824966434:android:cec5db93ada6d4685bd77b",
+        "android_client_info": {
+          "package_name": "com.rrstudio.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665824966434-bed9g1roles4m7qmnqog0ht1cp9g83n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGbFbML0idAVw2MWgZo3WfiEgugtEHCBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665824966434-bed9g1roles4m7qmnqog0ht1cp9g83n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
