@@ -1,8 +1,8 @@
-package com.rrstudio.blogapp.domain
+package com.rrstudio.blogapp.domain.home
 
 import com.rrstudio.blogapp.core.Resource
 import com.rrstudio.blogapp.data.model.Post
-import com.rrstudio.blogapp.data.remote.HomeScreenDataSource
+import com.rrstudio.blogapp.data.remote.home.HomeScreenDataSource
 
 class HomeScreenRepoImpl(private val dataSource: HomeScreenDataSource): HomeScreenRepo {
 

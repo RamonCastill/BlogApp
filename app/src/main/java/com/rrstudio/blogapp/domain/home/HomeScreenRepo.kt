@@ -1,4 +1,4 @@
-package com.rrstudio.blogapp.domain
+package com.rrstudio.blogapp.domain.home
 
 import com.rrstudio.blogapp.core.Resource
 import com.rrstudio.blogapp.data.model.Post

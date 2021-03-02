@@ -1,4 +1,4 @@
-package com.rrstudio.blogapp.data.remote
+package com.rrstudio.blogapp.data.remote.home
 
 import com.google.firebase.firestore.FirebaseFirestore
 import com.rrstudio.blogapp.core.Resource

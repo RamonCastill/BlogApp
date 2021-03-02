@@ -3,9 +3,8 @@ package com.rrstudio.blogapp.presentation
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.liveData
-import com.google.rpc.context.AttributeContext
 import com.rrstudio.blogapp.core.Resource
-import com.rrstudio.blogapp.domain.HomeScreenRepo
+import com.rrstudio.blogapp.domain.home.HomeScreenRepo
 import kotlinx.coroutines.Dispatchers
 import java.lang.Exception
 
